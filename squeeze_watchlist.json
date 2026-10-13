@@ -1,0 +1,82 @@
+{
+  "SKL": {
+    "min_interval": 8,
+    "min_rate": -0.6018,
+    "BN": {
+      "rate": 0.0,
+      "interval": 8
+    },
+    "Bitget": {
+      "rate": -0.6018,
+      "interval": 8
+    },
+    "OKX": {
+      "rate": 0.0,
+      "interval": 8
+    }
+  },
+  "RDDT": {
+    "min_interval": 8,
+    "min_rate": -0.5268,
+    "BN": {
+      "rate": 0.0,
+      "interval": 8
+    },
+    "Bitget": {
+      "rate": -0.5268,
+      "interval": 8
+    },
+    "OKX": {
+      "rate": -0.1393,
+      "interval": 8
+    }
+  },
+  "USDESTOCK": {
+    "min_interval": 8,
+    "min_rate": -0.5167,
+    "BN": {
+      "rate": 0.0,
+      "interval": 8
+    },
+    "Bitget": {
+      "rate": -0.5167,
+      "interval": 8
+    },
+    "OKX": {
+      "rate": 0.0,
+      "interval": 8
+    }
+  },
+  "CTK": {
+    "min_interval": 8,
+    "min_rate": -0.8431,
+    "BN": {
+      "rate": 0.0,
+      "interval": 8
+    },
+    "Bitget": {
+      "rate": -0.8431,
+      "interval": 8
+    },
+    "OKX": {
+      "rate": 0.0,
+      "interval": 8
+    }
+  },
+  "RSR": {
+    "min_interval": 2,
+    "min_rate": -1.2884,
+    "BN": {
+      "rate": 0.0,
+      "interval": 8
+    },
+    "Bitget": {
+      "rate": -1.2884,
+      "interval": 8
+    },
+    "OKX": {
+      "rate": -0.3704,
+      "interval": 2
+    }
+  }
+}
