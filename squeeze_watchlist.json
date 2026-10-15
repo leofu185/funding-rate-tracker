@@ -1,97 +1,49 @@
 {
-  "CSOPSK2LHKD": {
-    "min_interval": 8,
-    "min_rate": -0.9082,
+  "RSR": {
+    "min_interval": 4,
+    "min_rate": -0.8078,
     "BN": {
       "rate": 0.0,
       "interval": 8
     },
     "Bitget": {
-      "rate": -0.9082,
+      "rate": -0.8078,
       "interval": 8
     },
     "OKX": {
-      "rate": 0.0,
-      "interval": 8
-    }
-  },
-  "KOPN": {
-    "min_interval": 8,
-    "min_rate": -0.7677,
-    "BN": {
-      "rate": 0.0,
-      "interval": 8
-    },
-    "Bitget": {
-      "rate": -0.7677,
-      "interval": 8
-    },
-    "OKX": {
-      "rate": 0.0,
-      "interval": 8
+      "rate": -0.5443,
+      "interval": 4
     }
   },
   "WAL": {
     "min_interval": 4,
-    "min_rate": -0.4155,
+    "min_rate": -0.6665,
     "BN": {
       "rate": 0.0,
       "interval": 8
     },
     "Bitget": {
-      "rate": -0.4155,
+      "rate": -0.6665,
       "interval": 8
     },
     "OKX": {
-      "rate": -0.3341,
+      "rate": -0.559,
       "interval": 4
     }
   },
   "BLUR": {
     "min_interval": 4,
-    "min_rate": -0.4956,
+    "min_rate": -0.1206,
     "BN": {
       "rate": 0.0,
       "interval": 8
     },
     "Bitget": {
-      "rate": -0.4793,
+      "rate": -0.0254,
       "interval": 8
     },
     "OKX": {
-      "rate": -0.4956,
-      "interval": 4
-    }
-  },
-  "CSOPSS2LHKD": {
-    "min_interval": 8,
-    "min_rate": -0.6634,
-    "BN": {
-      "rate": 0.0,
-      "interval": 8
-    },
-    "Bitget": {
-      "rate": -0.6634,
-      "interval": 8
-    },
-    "OKX": {
-      "rate": 0.0,
-      "interval": 8
-    }
-  },
-  "RSR": {
-    "min_interval": 4,
-    "min_rate": -0.0386,
-    "BN": {
-      "rate": 0.0,
-      "interval": 8
-    },
-    "Bitget": {
-      "rate": -0.0376,
-      "interval": 8
-    },
-    "OKX": {
-      "rate": -0.0386,
+      "rate": -0.1206,
       "interval": 4
     }
   }
