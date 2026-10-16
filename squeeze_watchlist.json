@@ -1,29 +1,13 @@
 {
-  "KOPN": {
-    "min_interval": 8,
-    "min_rate": -0.6638,
-    "BN": {
-      "rate": 0.0,
-      "interval": 8
-    },
-    "Bitget": {
-      "rate": -0.6638,
-      "interval": 8
-    },
-    "OKX": {
-      "rate": 0.0,
-      "interval": 8
-    }
-  },
   "ECHO": {
     "min_interval": 8,
-    "min_rate": -0.539,
+    "min_rate": -0.113,
     "BN": {
       "rate": 0.0,
       "interval": 8
     },
     "Bitget": {
-      "rate": -0.539,
+      "rate": -0.113,
       "interval": 8
     },
     "OKX": {
@@ -33,82 +17,50 @@
   },
   "BLUR": {
     "min_interval": 4,
-    "min_rate": -0.5729,
+    "min_rate": -0.2187,
     "BN": {
       "rate": 0.0,
       "interval": 8
     },
     "Bitget": {
-      "rate": -0.5694,
+      "rate": -0.2187,
       "interval": 8
     },
     "OKX": {
-      "rate": -0.5729,
+      "rate": -0.2019,
       "interval": 4
     }
   },
   "WAL": {
     "min_interval": 4,
-    "min_rate": -0.0472,
+    "min_rate": -0.0468,
     "BN": {
       "rate": 0.0,
       "interval": 8
     },
     "Bitget": {
-      "rate": -0.0383,
+      "rate": -0.0395,
       "interval": 8
     },
     "OKX": {
-      "rate": -0.0472,
+      "rate": -0.0468,
       "interval": 4
-    }
-  },
-  "SDGR": {
-    "min_interval": 8,
-    "min_rate": -0.5186,
-    "BN": {
-      "rate": 0.0,
-      "interval": 8
-    },
-    "Bitget": {
-      "rate": -0.5186,
-      "interval": 8
-    },
-    "OKX": {
-      "rate": 0.0,
-      "interval": 8
     }
   },
   "RSR": {
     "min_interval": 4,
-    "min_rate": -0.076,
+    "min_rate": -0.042,
     "BN": {
       "rate": 0.0,
       "interval": 8
     },
     "Bitget": {
-      "rate": -0.076,
+      "rate": -0.042,
       "interval": 8
     },
     "OKX": {
-      "rate": -0.0725,
+      "rate": -0.0242,
       "interval": 4
-    }
-  },
-  "SIREN": {
-    "min_interval": 8,
-    "min_rate": -0.5379,
-    "BN": {
-      "rate": 0.0,
-      "interval": 8
-    },
-    "Bitget": {
-      "rate": -0.5379,
-      "interval": 8
-    },
-    "OKX": {
-      "rate": 0.0,
-      "interval": 8
     }
   }
 }
