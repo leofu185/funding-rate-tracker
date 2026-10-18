@@ -1,65 +1,97 @@
 {
-  "WAL": {
-    "min_interval": 4,
-    "min_rate": -0.0274,
+  "GTC": {
+    "min_interval": 8,
+    "min_rate": -0.5048,
     "BN": {
-      "rate": 0.0,
+      "rate": -0.5048,
       "interval": 8
     },
     "Bitget": {
-      "rate": -0.0137,
+      "rate": 0.0,
       "interval": 8
     },
     "OKX": {
-      "rate": -0.0274,
-      "interval": 4
+      "rate": 0.0,
+      "interval": 8
     }
   },
   "SAND": {
     "min_interval": 4,
-    "min_rate": -0.3906,
+    "min_rate": -0.3667,
     "BN": {
-      "rate": 0.0,
+      "rate": -0.3322,
       "interval": 8
     },
     "Bitget": {
-      "rate": -0.3906,
+      "rate": -0.3667,
       "interval": 8
     },
     "OKX": {
-      "rate": -0.1499,
+      "rate": -0.1285,
       "interval": 4
     }
   },
   "BLUR": {
     "min_interval": 4,
-    "min_rate": -0.0814,
+    "min_rate": -0.0704,
     "BN": {
-      "rate": 0.0,
+      "rate": -0.0486,
       "interval": 8
     },
     "Bitget": {
-      "rate": -0.036,
+      "rate": -0.0199,
       "interval": 8
     },
     "OKX": {
-      "rate": -0.0814,
+      "rate": -0.0704,
       "interval": 4
     }
   },
   "RSR": {
     "min_interval": 4,
-    "min_rate": -0.0762,
+    "min_rate": -0.0953,
     "BN": {
-      "rate": 0.0,
+      "rate": -0.0953,
       "interval": 8
     },
     "Bitget": {
-      "rate": -0.0705,
+      "rate": -0.0757,
       "interval": 8
     },
     "OKX": {
-      "rate": -0.0762,
+      "rate": -0.07,
+      "interval": 4
+    }
+  },
+  "ARIA": {
+    "min_interval": 8,
+    "min_rate": -1.0661,
+    "BN": {
+      "rate": -0.0176,
+      "interval": 8
+    },
+    "Bitget": {
+      "rate": -1.0661,
+      "interval": 8
+    },
+    "OKX": {
+      "rate": 0.0,
+      "interval": 8
+    }
+  },
+  "WAL": {
+    "min_interval": 4,
+    "min_rate": -0.0188,
+    "BN": {
+      "rate": -0.0042,
+      "interval": 8
+    },
+    "Bitget": {
+      "rate": -0.0095,
+      "interval": 8
+    },
+    "OKX": {
+      "rate": -0.0188,
       "interval": 4
     }
   }
