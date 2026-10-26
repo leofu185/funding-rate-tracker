@@ -1,13 +1,13 @@
 {
   "T": {
     "min_interval": 8,
-    "min_rate": -0.4344,
+    "min_rate": -0.1488,
     "BN": {
       "rate": 0.0,
       "interval": 8
     },
     "Bitget": {
-      "rate": -0.4344,
+      "rate": -0.1488,
       "interval": 8
     },
     "OKX": {
@@ -15,243 +15,275 @@
       "interval": 8
     }
   },
-  "CT": {
-    "min_interval": 4,
-    "min_rate": -0.0197,
+  "UNITREE": {
+    "min_interval": 8,
+    "min_rate": -1.0,
     "BN": {
       "rate": 0.0,
       "interval": 8
     },
     "Bitget": {
-      "rate": -0.0019,
+      "rate": -0.8451,
       "interval": 8
     },
     "OKX": {
-      "rate": -0.0197,
-      "interval": 4
-    }
-  },
-  "MEW": {
-    "min_interval": 4,
-    "min_rate": -0.0119,
-    "BN": {
-      "rate": 0.0,
+      "rate": -1.0,
       "interval": 8
-    },
-    "Bitget": {
-      "rate": 0.005,
-      "interval": 8
-    },
-    "OKX": {
-      "rate": -0.0119,
-      "interval": 4
     }
   },
   "AXIS": {
     "min_interval": 4,
-    "min_rate": -0.1198,
+    "min_rate": -1.2893,
     "BN": {
       "rate": 0.0,
       "interval": 8
     },
     "Bitget": {
-      "rate": -0.0735,
+      "rate": -1.2893,
       "interval": 8
     },
     "OKX": {
-      "rate": -0.1198,
-      "interval": 4
-    }
-  },
-  "ANIME": {
-    "min_interval": 4,
-    "min_rate": -0.0718,
-    "BN": {
-      "rate": 0.0,
-      "interval": 8
-    },
-    "Bitget": {
-      "rate": -0.0409,
-      "interval": 8
-    },
-    "OKX": {
-      "rate": -0.0718,
-      "interval": 4
-    }
-  },
-  "BIRB": {
-    "min_interval": 8,
-    "min_rate": -0.2504,
-    "BN": {
-      "rate": 0.0,
-      "interval": 8
-    },
-    "Bitget": {
-      "rate": -0.2504,
-      "interval": 8
-    },
-    "OKX": {
-      "rate": 0.0,
-      "interval": 8
-    }
-  },
-  "DOOD": {
-    "min_interval": 4,
-    "min_rate": -0.0061,
-    "BN": {
-      "rate": 0.0,
-      "interval": 8
-    },
-    "Bitget": {
-      "rate": -0.0013,
-      "interval": 8
-    },
-    "OKX": {
-      "rate": -0.0061,
-      "interval": 4
-    }
-  },
-  "STEEM": {
-    "min_interval": 8,
-    "min_rate": -0.6469,
-    "BN": {
-      "rate": 0.0,
-      "interval": 8
-    },
-    "Bitget": {
-      "rate": -0.6469,
-      "interval": 8
-    },
-    "OKX": {
-      "rate": 0.0,
-      "interval": 8
-    }
-  },
-  "ORDER": {
-    "min_interval": 4,
-    "min_rate": -0.2576,
-    "BN": {
-      "rate": 0.0,
-      "interval": 8
-    },
-    "Bitget": {
-      "rate": -0.0837,
-      "interval": 8
-    },
-    "OKX": {
-      "rate": -0.2576,
-      "interval": 4
-    }
-  },
-  "BLUR": {
-    "min_interval": 4,
-    "min_rate": -0.0054,
-    "BN": {
-      "rate": 0.0,
-      "interval": 8
-    },
-    "Bitget": {
-      "rate": -0.0054,
-      "interval": 8
-    },
-    "OKX": {
-      "rate": 0.005,
-      "interval": 4
-    }
-  },
-  "RSR": {
-    "min_interval": 4,
-    "min_rate": -0.0245,
-    "BN": {
-      "rate": 0.0,
-      "interval": 8
-    },
-    "Bitget": {
-      "rate": -0.0245,
-      "interval": 8
-    },
-    "OKX": {
-      "rate": -0.0036,
-      "interval": 4
-    }
-  },
-  "IOST": {
-    "min_interval": 4,
-    "min_rate": -0.2445,
-    "BN": {
-      "rate": 0.0,
-      "interval": 8
-    },
-    "Bitget": {
-      "rate": -0.0564,
-      "interval": 8
-    },
-    "OKX": {
-      "rate": -0.2445,
-      "interval": 4
-    }
-  },
-  "BTW": {
-    "min_interval": 1,
-    "min_rate": -0.7426,
-    "BN": {
-      "rate": 0.0,
-      "interval": 8
-    },
-    "Bitget": {
-      "rate": -0.7426,
-      "interval": 8
-    },
-    "OKX": {
-      "rate": -0.2125,
-      "interval": 1
-    }
-  },
-  "WAL": {
-    "min_interval": 4,
-    "min_rate": -0.0173,
-    "BN": {
-      "rate": 0.0,
-      "interval": 8
-    },
-    "Bitget": {
-      "rate": 0.005,
-      "interval": 8
-    },
-    "OKX": {
-      "rate": -0.0173,
+      "rate": -1.0,
       "interval": 4
     }
   },
   "EWZ": {
     "min_interval": 8,
-    "min_rate": -0.7755,
+    "min_rate": -1.0,
     "BN": {
       "rate": 0.0,
       "interval": 8
     },
     "Bitget": {
-      "rate": -0.5787,
+      "rate": -1.0,
       "interval": 8
     },
     "OKX": {
-      "rate": -0.7755,
+      "rate": -0.6691,
       "interval": 8
+    }
+  },
+  "ORDER": {
+    "min_interval": 4,
+    "min_rate": -0.0658,
+    "BN": {
+      "rate": 0.0,
+      "interval": 8
+    },
+    "Bitget": {
+      "rate": -0.0249,
+      "interval": 8
+    },
+    "OKX": {
+      "rate": -0.0658,
+      "interval": 4
+    }
+  },
+  "BTW": {
+    "min_interval": 1,
+    "min_rate": -0.4226,
+    "BN": {
+      "rate": 0.0,
+      "interval": 8
+    },
+    "Bitget": {
+      "rate": -0.4226,
+      "interval": 8
+    },
+    "OKX": {
+      "rate": -0.1056,
+      "interval": 1
+    }
+  },
+  "STEEM": {
+    "min_interval": 8,
+    "min_rate": -0.4513,
+    "BN": {
+      "rate": 0.0,
+      "interval": 8
+    },
+    "Bitget": {
+      "rate": -0.4513,
+      "interval": 8
+    },
+    "OKX": {
+      "rate": 0.0,
+      "interval": 8
+    }
+  },
+  "BLUR": {
+    "min_interval": 4,
+    "min_rate": -0.0322,
+    "BN": {
+      "rate": 0.0,
+      "interval": 8
+    },
+    "Bitget": {
+      "rate": -0.0322,
+      "interval": 8
+    },
+    "OKX": {
+      "rate": -0.0172,
+      "interval": 4
     }
   },
   "SAND": {
     "min_interval": 4,
-    "min_rate": -0.0204,
+    "min_rate": -0.0062,
     "BN": {
       "rate": 0.0,
       "interval": 8
     },
     "Bitget": {
-      "rate": -0.0204,
+      "rate": -0.0062,
       "interval": 8
     },
     "OKX": {
-      "rate": -0.0146,
+      "rate": 0.0025,
+      "interval": 4
+    }
+  },
+  "ANIME": {
+    "min_interval": 4,
+    "min_rate": -0.0168,
+    "BN": {
+      "rate": 0.0,
+      "interval": 8
+    },
+    "Bitget": {
+      "rate": -0.0168,
+      "interval": 8
+    },
+    "OKX": {
+      "rate": -0.0126,
+      "interval": 4
+    }
+  },
+  "RSR": {
+    "min_interval": 4,
+    "min_rate": -0.0243,
+    "BN": {
+      "rate": 0.0,
+      "interval": 8
+    },
+    "Bitget": {
+      "rate": -0.0044,
+      "interval": 8
+    },
+    "OKX": {
+      "rate": -0.0243,
+      "interval": 4
+    }
+  },
+  "DOOD": {
+    "min_interval": 4,
+    "min_rate": -0.0176,
+    "BN": {
+      "rate": 0.0,
+      "interval": 8
+    },
+    "Bitget": {
+      "rate": 0.0039,
+      "interval": 8
+    },
+    "OKX": {
+      "rate": -0.0176,
+      "interval": 4
+    }
+  },
+  "BIRB": {
+    "min_interval": 8,
+    "min_rate": -0.2109,
+    "BN": {
+      "rate": 0.0,
+      "interval": 8
+    },
+    "Bitget": {
+      "rate": -0.2109,
+      "interval": 8
+    },
+    "OKX": {
+      "rate": 0.0,
+      "interval": 8
+    }
+  },
+  "MEW": {
+    "min_interval": 4,
+    "min_rate": -0.0278,
+    "BN": {
+      "rate": 0.0,
+      "interval": 8
+    },
+    "Bitget": {
+      "rate": -0.0032,
+      "interval": 8
+    },
+    "OKX": {
+      "rate": -0.0278,
+      "interval": 4
+    }
+  },
+  "CT": {
+    "min_interval": 4,
+    "min_rate": -0.0369,
+    "BN": {
+      "rate": 0.0,
+      "interval": 8
+    },
+    "Bitget": {
+      "rate": -0.0369,
+      "interval": 8
+    },
+    "OKX": {
+      "rate": -0.0276,
+      "interval": 4
+    }
+  },
+  "WAL": {
+    "min_interval": 4,
+    "min_rate": -0.0148,
+    "BN": {
+      "rate": 0.0,
+      "interval": 8
+    },
+    "Bitget": {
+      "rate": -0.0087,
+      "interval": 8
+    },
+    "OKX": {
+      "rate": -0.0148,
+      "interval": 4
+    }
+  },
+  "XP": {
+    "min_interval": 8,
+    "min_rate": -1.0,
+    "BN": {
+      "rate": 0.0,
+      "interval": 8
+    },
+    "Bitget": {
+      "rate": -1.0,
+      "interval": 8
+    },
+    "OKX": {
+      "rate": 0.0,
+      "interval": 8
+    }
+  },
+  "IOST": {
+    "min_interval": 4,
+    "min_rate": -0.1871,
+    "BN": {
+      "rate": 0.0,
+      "interval": 8
+    },
+    "Bitget": {
+      "rate": -0.0775,
+      "interval": 8
+    },
+    "OKX": {
+      "rate": -0.1871,
       "interval": 4
     }
   }
